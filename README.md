@@ -16,8 +16,7 @@ Thank you for your time. I would be happy to answer any questions about my proje
 
 ### 🎥 Video Presentation
 
-**Watch the full, high-quality video presentation directly on Google Drive:**
+https://github.com/Rajupeace/self-introduction-/raw/main/compressed_intro.mp4
 
-<br>
 
 [![Watch on Google Drive](https://img.shields.io/badge/Watch_Video_on_Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-6J1yg2taih80vYIw3K8ZbdplQ0qnnzh/view?usp=sharing)
