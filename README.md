@@ -16,10 +16,4 @@ Thank you for your time. I would be happy to answer any questions about my proje
 
 ### 🎥 Video Presentation
 
-*(Because this video file is extremely large and high-quality, GitHub's servers physically cannot play it directly on this page.)*
-
-**Please download the video using the link below to watch it:**
-
-<br>
-
-[![Download Video](https://img.shields.io/badge/Download-Video-blue?style=for-the-badge&logo=download)](https://github.com/Rajupeace/self-introduction-/raw/main/lv_0_20260621161712.mp4)
+https://github.com/Rajupeace/self-introduction-/raw/main/compressed_intro.mp4
